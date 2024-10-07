@@ -72,9 +72,6 @@
         <mxCell id="R-7eX2_hRQgn-cIn9q6u-36" value="User Exists Verification" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="680" y="130" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="R-7eX2_hRQgn-cIn9q6u-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="R-7eX2_hRQgn-cIn9q6u-2" target="R-7eX2_hRQgn-cIn9q6u-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="R-7eX2_hRQgn-cIn9q6u-38" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="R-7eX2_hRQgn-cIn9q6u-15">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="270" y="340" as="sourcePoint" />
